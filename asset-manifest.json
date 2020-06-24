@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pets-App/static/css/main.31ca773a.chunk.css",
+    "main.js": "/Pets-App/static/js/main.5e7bca0d.chunk.js",
+    "main.js.map": "/Pets-App/static/js/main.5e7bca0d.chunk.js.map",
+    "runtime-main.js": "/Pets-App/static/js/runtime-main.2d47c4a9.js",
+    "runtime-main.js.map": "/Pets-App/static/js/runtime-main.2d47c4a9.js.map",
+    "static/js/2.c4c0e8c3.chunk.js": "/Pets-App/static/js/2.c4c0e8c3.chunk.js",
+    "static/js/2.c4c0e8c3.chunk.js.map": "/Pets-App/static/js/2.c4c0e8c3.chunk.js.map",
+    "index.html": "/Pets-App/index.html",
+    "precache-manifest.4ce1543255dc77e5283ba13c21843e28.js": "/Pets-App/precache-manifest.4ce1543255dc77e5283ba13c21843e28.js",
+    "service-worker.js": "/Pets-App/service-worker.js",
+    "static/css/main.31ca773a.chunk.css.map": "/Pets-App/static/css/main.31ca773a.chunk.css.map",
+    "static/js/2.c4c0e8c3.chunk.js.LICENSE.txt": "/Pets-App/static/js/2.c4c0e8c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d47c4a9.js",
+    "static/js/2.c4c0e8c3.chunk.js",
+    "static/css/main.31ca773a.chunk.css",
+    "static/js/main.5e7bca0d.chunk.js"
+  ]
+}
